@@ -1,5 +1,7 @@
 # dagster-airflow-config-systems
 
+Working examples contrasting the configuration and integration system of dagster and airflow
+
 ## to run as airflow
 
 ```bash

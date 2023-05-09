@@ -1,0 +1,9 @@
+logs/**/*
+**/__pycache__/**/*
+*.egg
+*.egg-info
+
+**/*.pyc
+
+.vscode/**
+.DS_Store
